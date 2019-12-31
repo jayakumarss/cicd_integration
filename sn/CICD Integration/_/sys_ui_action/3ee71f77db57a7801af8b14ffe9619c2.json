@@ -2,7 +2,7 @@
   "action_name": "cicd_run_build",
   "active": true,
   "client": true,
-  "client_script_v2": "function onClick(g_form) {\r\n\r\n}",
+  "client_script_v2": "function onClick(g_form) {\n\n}",
   "comments": "Run CICD Process based on a Scoped Application",
   "condition": "new CiCdRun().showBuildThisApplicationUiAction(current)",
   "form_action": true,
