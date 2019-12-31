@@ -1,0 +1,24 @@
+{
+  "category": "htmleditor",
+  "client_script": null,
+  "description": "Display the update sets to deploy using the ci/cd process",
+  "direct": false,
+  "endpoint": null,
+  "html": {
+    "____see": "sn\\CICD Integration\\UI Page\\htmleditor\\DisplayUpdateSets\\html.xhtml"
+  },
+  "name": "DisplayUpdateSets",
+  "processing_script": null,
+  "sys_class_name": "sys_ui_page",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-12 13:56:37",
+  "sys_id": "2bc085c6db010010343f58b3ca961980",
+  "sys_mod_count": 2,
+  "sys_name": "DisplayUpdateSets",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_page_2bc085c6db010010343f58b3ca961980",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-12 13:58:09"
+}

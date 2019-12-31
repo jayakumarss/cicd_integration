@@ -1,0 +1,24 @@
+{
+  "access": null,
+  "active": true,
+  "api_name": "global.ApprovalUtil",
+  "caller_access": null,
+  "client_callable": false,
+  "description": "Used for adding variables from a catalog item to an email (specifically an approval email).  Relies on system properties to get a list of variables, and is called from the email body itself. ",
+  "name": "ApprovalUtil",
+  "script": {
+    "____see": "sn\\CICD Integration\\Script Include\\active_true\\global.ApprovalUtil.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": 162107,
+  "sys_created_on": "2015-02-06 17:37:19",
+  "sys_id": "20f5810a2b0abd00764f3e2be8da1551",
+  "sys_mod_count": 2,
+  "sys_name": "ApprovalUtil",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_script_include_20f5810a2b0abd00764f3e2be8da1551",
+  "sys_updated_by": 162107,
+  "sys_updated_on": "2015-02-06 17:38:14"
+}

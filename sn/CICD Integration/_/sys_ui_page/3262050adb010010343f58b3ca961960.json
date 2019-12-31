@@ -1,0 +1,26 @@
+{
+  "category": "htmleditor",
+  "client_script": {
+    "____see": "sn\\CICD Integration\\UI Page\\htmleditor\\UpdateSets\\client_script.js"
+  },
+  "description": "Test",
+  "direct": false,
+  "endpoint": null,
+  "html": {
+    "____see": "sn\\CICD Integration\\UI Page\\htmleditor\\UpdateSets\\html.xhtml"
+  },
+  "name": "UpdateSets",
+  "processing_script": null,
+  "sys_class_name": "sys_ui_page",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-12 13:59:34",
+  "sys_id": "3262050adb010010343f58b3ca961960",
+  "sys_mod_count": 71,
+  "sys_name": "UpdateSets",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_page_3262050adb010010343f58b3ca961960",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-25 19:05:58"
+}
