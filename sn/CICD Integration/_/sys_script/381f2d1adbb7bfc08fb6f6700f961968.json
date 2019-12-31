@@ -27,7 +27,7 @@
   "rest_variables": null,
   "role_conditions": null,
   "script": {
-    "____see": "sn\\CICD Integration\\Business Rule\\sys_app\\active_true\\display\\[CICD] Display Running Jobs\\script.js"
+    "____see": "sn\\CICD Integration\\Business Rule\\sys_app\\active_true\\before_display\\[CICD] Display Running Jobs\\script.js"
   },
   "sys_class_name": "sys_script",
   "sys_created_by": "b.moers",

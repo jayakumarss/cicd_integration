@@ -27,7 +27,7 @@
   "rest_variables": null,
   "role_conditions": null,
   "script": {
-    "____see": "sn\\CICD Integration\\Business Rule\\sys_update_set\\active_true\\display\\[CICD] Show link to CICD results\\script.js"
+    "____see": "sn\\CICD Integration\\Business Rule\\sys_update_set\\active_true\\before_display\\[CICD] Show link to CICD results\\script.js"
   },
   "sys_class_name": "sys_script",
   "sys_created_by": "b.moers",
