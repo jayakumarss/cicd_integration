@@ -19,7 +19,7 @@
 		"gulp-rename": "^1.4.0",
 		"gulp-rimraf": "^0.2.2",
 		"gulp-zip": "^4.2.0",
-		"mocha": "^6.0.2",
+		"mocha": "^10.2.0",
 		"mochawesome": "^3.0.2",
 		"request": "^2.88.0",
 		"request-promise": "^4.2.2",
